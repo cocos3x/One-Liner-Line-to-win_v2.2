@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace sdk.bridge.imp.android
 {
-	public class NtpAndroidCallbackImp : AndroidJavaProxy, INtpCallback
+	public class NtpAndroidCallbackImp 
 	{
 		private Action _action;
 
@@ -13,9 +13,7 @@ namespace sdk.bridge.imp.android
 			return null;
 		}
 
-		public NtpAndroidCallbackImp(string javaInterface)
-		{
-		}
+		
 
 		public void OnNtpGet()
 		{

@@ -5,17 +5,14 @@ using System.Runtime.InteropServices;
 
 namespace YouYou
 {
-	[StructLayout(0, Size = 1)]
+	
 	public struct ETTaskCompleted : ICriticalNotifyCompletion, INotifyCompletion
 	{
 		[DebuggerHidden]
 		public bool IsCompleted => false;
 
-		[DebuggerHidden]
-		public ETTaskCompleted GetAwaiter()
-		{
-			return (ETTaskCompleted)null;
-		}
+		
+		
 
 		[MethodImpl(256)]
 		[DebuggerHidden]

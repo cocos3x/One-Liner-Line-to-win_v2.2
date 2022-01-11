@@ -2,7 +2,7 @@ using UnityEngine;
 
 namespace WXB
 {
-	public class RectTransformNode : IExternalNode
+	public class RectTransformNode 
 	{
 		private RectTransform root;
 

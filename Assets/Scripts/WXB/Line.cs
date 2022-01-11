@@ -32,7 +32,7 @@ namespace WXB
 			}
 		}
 
-		public Vector2 s => (Vector2)null;
+		
 
 		public float minY
 		{

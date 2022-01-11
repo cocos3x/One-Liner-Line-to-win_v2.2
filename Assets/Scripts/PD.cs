@@ -8,10 +8,7 @@ namespace WXB
 
 		private Action<T> free;
 
-		public PD(Action<T> free)
-		{
-		}
-
+	
 		public void Dispose()
 		{
 		}

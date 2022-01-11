@@ -4,7 +4,7 @@ using UnityEngine;
 
 namespace sdk.bridge.imp.android
 {
-	public class AdAndroidCallbackImp : AndroidJavaProxy, IAdCallback
+	public class AdAndroidCallbackImp 
 	{
 		public Action Action;
 
@@ -21,9 +21,7 @@ namespace sdk.bridge.imp.android
 			return null;
 		}
 
-		public AdAndroidCallbackImp(string javaInterface)
-		{
-		}
+		
 
 		public void OnRewarded(int position)
 		{

@@ -47,10 +47,7 @@ namespace GF
 			return false;
 		}
 
-		public static T GetAB<T>(string key, T defaultValue)
-		{
-			return (T)null;
-		}
+	
 
 		public static bool IsRateOpen()
 		{
@@ -103,22 +100,7 @@ namespace GF
 		{
 		}
 
-		public static void OnUIShow(FullAdsType adsType, [Optional] AdEvent adEvent)
-		{
-		}
-
-		public static void OnUIShow(RewardAdsType adsType, [Optional] AdEvent adEvent)
-		{
-		}
-
-		public static void OnAdClick(FullAdsType adsType, Action rewardAction, [Optional] Action failAction, [Optional] AdEvent adEvent)
-		{
-		}
-
-		public static void OnAdClick(RewardAdsType adsType, Action rewardAction, [Optional] Action failAction, [Optional] AdEvent adEvent)
-		{
-		}
-
+	
 		public static void CheckShare()
 		{
 		}

@@ -32,10 +32,7 @@ namespace WXB
 		{
 		}
 
-		public T Get()
-		{
-			return (T)null;
-		}
+		
 
 		public void Release(T element)
 		{

@@ -12,7 +12,7 @@ public class AdaptiveScreen65 : MonoBehaviour
 
 	public List<Transform> adaptiveTras;
 
-	public Vector3 BangScreen => (Vector3)null;
+
 
 	private void Awake()
 	{

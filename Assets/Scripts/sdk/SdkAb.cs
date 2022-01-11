@@ -4,11 +4,7 @@ namespace sdk
 {
 	public static class SdkAb
 	{
-		public static T GetFunAb<T>(string serverName, string key, T defaultValue)
-		{
-			return (T)null;
-		}
-
+	
 		public static bool IsRateOpen()
 		{
 			return false;

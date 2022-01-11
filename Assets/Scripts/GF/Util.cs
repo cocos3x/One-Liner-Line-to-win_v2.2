@@ -44,19 +44,13 @@ namespace GF
 				return "";
 			}
 
-			public static T GetItem<T>(string localStorageKey, T defaultValue, bool isObject)
-			{
-				return (T)null;
-			}
+			
 
 			public static void SetItem<T>(string localStorageKey, T value, bool isObject)
 			{
 			}
 
-			private static T ReadItem<T>(string localStorageKey, T defaultValue, bool isObject)
-			{
-				return (T)null;
-			}
+			
 
 			private static void WriteItem<T>(string localStorageKey, T value, bool isObject)
 			{
@@ -93,10 +87,7 @@ namespace GF
 
 		private string persistentDataPath => "";
 
-		public T GetConfig<T>(string path, string key)
-		{
-			return (T)null;
-		}
+	
 
 		public Tweener Delay2Do(float time, TweenCallback complete, [Optional] TweenCallback update)
 		{
@@ -118,10 +109,7 @@ namespace GF
 			return "";
 		}
 
-		public T ReadFromStreamAssets<T>(string jsonFilePath)
-		{
-			return (T)null;
-		}
+	
 
 		public string GetFilePathOfPersistentDataPath(string filePath)
 		{
@@ -137,19 +125,12 @@ namespace GF
 		{
 		}
 
-		public T ReadFromPersistentData<T>(string jsonFilePath)
-		{
-			return (T)null;
-		}
-
+		
 		public void WriteToPersistentData<T>(string jsonFilePath, T data, bool append = false)
 		{
 		}
 
-		public T GetItem<T>(string localStorageKey, T defaultValue)
-		{
-			return (T)null;
-		}
+		
 
 		public void SetItem<T>(string localStorageKey, T value)
 		{

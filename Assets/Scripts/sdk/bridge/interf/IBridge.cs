@@ -1,4 +1,4 @@
-using sdk.ad;
+
 using System;
 using System.Runtime.InteropServices;
 
@@ -8,27 +8,27 @@ namespace sdk.bridge.interf
 	{
 		void LoadAd(int position);
 
-		bool ShowOpenAd(int position, AdEvent adEvent, Action sdkCallback);
+		//bool ShowOpenAd(int position, AdEvent adEvent, Action sdkCallback);
 
-		bool ShowAd(int position, AdEvent adEvent, Action sdkCallback);
+		//bool ShowAd(int position, AdEvent adEvent, Action sdkCallback);
 
-		bool Load2ShowAd(int position, AdEvent adEvent, Action sdkCallback);
+		//bool Load2ShowAd(int position, AdEvent adEvent, Action sdkCallback);
 
-		void LoadRewardAd(int position);
+		//void LoadRewardAd(int position);
 
-		void Load2ShowRewardAd(int position, AdEvent adEvent, Action sdkCallback, [Optional] Action sdkFailCallback);
+		//void Load2ShowRewardAd(int position, AdEvent adEvent, Action sdkCallback, [Optional] Action sdkFailCallback);
 
-		bool ShowRewardAd(int position, AdEvent adEvent, Action sdkCallback, [Optional] Action sdkFailCallback);
+		//bool ShowRewardAd(int position, AdEvent adEvent, Action sdkCallback, [Optional] Action sdkFailCallback);
 
-		void Load2ShowBanner(int position, AdEvent staticsMsg);
+		//void Load2ShowBanner(int position, AdEvent staticsMsg);
 
-		void SetBannerVisible(bool isVisible);
+		//void SetBannerVisible(bool isVisible);
 
-		bool HadCache(int position);
+		//bool HadCache(int position);
 
-		void AdPageShow(int position, AdEvent adEvent);
+		//void AdPageShow(int position, AdEvent adEvent);
 
-		void AdPageClick(int position, AdEvent adEvent);
+		//void AdPageClick(int position, AdEvent adEvent);
 
 		void AddAdListener(int position, AdAction action);
 

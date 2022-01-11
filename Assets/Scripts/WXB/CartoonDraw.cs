@@ -16,7 +16,7 @@ namespace WXB
 
 		private bool currentIsEmpty;
 
-		public override DrawType type => (DrawType)null;
+	
 
 		public Cartoon cartoon
 		{

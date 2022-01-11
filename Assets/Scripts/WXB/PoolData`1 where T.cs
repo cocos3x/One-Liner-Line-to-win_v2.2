@@ -6,11 +6,7 @@ namespace WXB
 	{
 		public static List<T> bufs;
 
-		public static T Get()
-		{
-			return (T)null;
-		}
-
+	
 		public static void Free(T t)
 		{
 		}

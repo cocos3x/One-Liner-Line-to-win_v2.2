@@ -17,17 +17,7 @@ namespace WXB
 
 			private int _003CsubMaterial_003Ek__BackingField;
 
-			public Rect rect
-			{
-				get
-				{
-					return (Rect)null;
-				}
-				set
-				{
-				}
-			}
-
+			
 			public Line line
 			{
 				get
@@ -52,8 +42,7 @@ namespace WXB
 				}
 			}
 
-			protected LineAlignment lineAlignment => (LineAlignment)null;
-
+		
 			public bool isContain(Vector2 pos)
 			{
 				return false;
@@ -92,10 +81,7 @@ namespace WXB
 			{
 			}
 
-			public virtual Vector2 GetStartLeftBottom(float unitsPerPixel)
-			{
-				return (Vector2)null;
-			}
+			
 		}
 
 		private struct Key
@@ -119,8 +105,7 @@ namespace WXB
 
 			public List<BaseData> nodes;
 
-			public DrawType drawType => (DrawType)null;
-
+		
 			public bool IsEquals(BaseData bd)
 			{
 				return false;
@@ -247,11 +232,7 @@ namespace WXB
 			{
 			}
 
-			private static TextAnchor SwitchTextAnchor(TextAnchor anchor)
-			{
-				//IL_0003: Expected I4, but got O
-				return (TextAnchor)null;
-			}
+			
 
 			public override void OnLineYCheck(float pixelsPerUnit)
 			{
@@ -261,10 +242,7 @@ namespace WXB
 			{
 			}
 
-			public override Vector2 GetStartLeftBottom(float unitsPerPixel)
-			{
-				return (Vector2)null;
-			}
+			
 
 			public override void Render(VertexHelper vh, Rect area, Vector2 offset, float pixelsPerUnit)
 			{

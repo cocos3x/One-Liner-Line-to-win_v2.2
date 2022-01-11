@@ -10,7 +10,7 @@ namespace WXB
 
 		public string d_link;
 
-		public override Color currentColor => (Color)null;
+
 
 		public override void onMouseEnter()
 		{

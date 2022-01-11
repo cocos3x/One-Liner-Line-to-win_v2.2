@@ -1,7 +1,7 @@
 using UnityEngine;
 using UnityEngine.UI;
 
-public class GuideMask : Graphic, ICanvasRaycastFilter
+public class GuideMask : Graphic
 {
 	public RectTransform inner_trans;
 

@@ -150,11 +150,7 @@ public class Data65 : MonoBehaviour
 		return 0f;
 	}
 
-	public BlockPropType BoxBlockPropTypeWeight()
-	{
-		//IL_0003: Expected I4, but got O
-		return (BlockPropType)null;
-	}
+
 
 	public float OutputBoxDollars(float _addExtra = 0f, bool _use = false)
 	{

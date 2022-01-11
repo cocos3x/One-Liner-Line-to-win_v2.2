@@ -5,7 +5,7 @@ using System.Runtime.InteropServices;
 
 namespace YouYou
 {
-	[StructLayout(0, Size = 1)]
+	
 	public struct ETVoid : ICriticalNotifyCompletion, INotifyCompletion
 	{
 		[DebuggerHidden]

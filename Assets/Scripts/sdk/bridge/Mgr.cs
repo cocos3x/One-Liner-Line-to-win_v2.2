@@ -52,37 +52,7 @@ namespace sdk.bridge
 		{
 		}
 
-		public bool ShowOpenAd(int position, AdEvent staticsMsg, [Optional] Action sdkCallback)
-		{
-			return false;
-		}
-
-		public bool ShowAd(int position, AdEvent staticsMsg, [Optional] Action sdkCallback)
-		{
-			return false;
-		}
-
-		public bool Load2ShowAd(int position, AdEvent staticsMsg, [Optional] Action sdkCallback)
-		{
-			return false;
-		}
-
-		public void LoadRewardAd(int position)
-		{
-		}
-
-		public void Load2ShowRewardAd(int position, AdEvent staticsMsg, Action action, [Optional] Action failAction)
-		{
-		}
-
-		public bool ShowRewardAd(int position, AdEvent staticsMsg, Action action)
-		{
-			return false;
-		}
-
-		public void Load2ShowBanner(int position, AdEvent staticsMsg)
-		{
-		}
+		
 
 		public void SetBannerVisible(bool isVisible)
 		{
@@ -93,13 +63,7 @@ namespace sdk.bridge
 			return false;
 		}
 
-		public void AdPageShow(int position, AdEvent staticsMsg)
-		{
-		}
-
-		public void AdPageClick(int position, AdEvent staticsMsg)
-		{
-		}
+		
 
 		public string GetBuglyId()
 		{
@@ -115,10 +79,7 @@ namespace sdk.bridge
 			return "";
 		}
 
-		public T GetAb<T>(string serverName, string childKey, T defaultValue)
-		{
-			return (T)null;
-		}
+		
 
 		public long GetCurrentNtpTime()
 		{

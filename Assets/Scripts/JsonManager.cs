@@ -14,10 +14,7 @@ public class JsonManager
 	{
 	}
 
-	public T Read<T>([Optional] string _jsonFileName, [Optional] string _jsonFileFolder, DataExistPath _dataExistPath = DataExistPath.None)
-	{
-		return (T)null;
-	}
+	
 
 	public void Remove([Optional] string _jsonFileName, [Optional] string _jsonFileFolder, DataExistPath _dataExistPath = DataExistPath.None)
 	{

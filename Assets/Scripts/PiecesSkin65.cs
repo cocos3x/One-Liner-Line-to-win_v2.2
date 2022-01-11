@@ -41,20 +41,7 @@ public class PiecesSkin65
 
 	public List<TargetLongArray> targetTimeArry;
 
-	public PiecesInfo SelectMlPieces(bool isSave = true)
-	{
-		return (PiecesInfo)null;
-	}
-
-	public PiecesInfo SelectFFPieces(bool isSave = true)
-	{
-		return (PiecesInfo)null;
-	}
-
-	public PiecesInfo SelectRlPieces(bool isSave = true)
-	{
-		return (PiecesInfo)null;
-	}
+	
 
 	public void SetSkinCount(int gameType, int pieceType, float count)
 	{

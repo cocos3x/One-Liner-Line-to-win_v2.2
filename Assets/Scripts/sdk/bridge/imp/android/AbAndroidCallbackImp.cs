@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace sdk.bridge.imp.android
 {
-	public class AbAndroidCallbackImp : AndroidJavaProxy, IAbCallback
+	public class AbAndroidCallbackImp 
 	{
 		private string _abName;
 

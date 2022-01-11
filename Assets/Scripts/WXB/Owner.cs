@@ -6,46 +6,46 @@ namespace WXB
 {
 	public interface Owner
 	{
-		int minLineHeight
-		{
-			get;
-			set;
-		}
+		//int minLineHeight
+		//{
+		//	get;
+		//	set;
+		//}
 
-		Around around
-		{
-			get;
-		}
+		//Around around
+		//{
+		//	get;
+		//}
 
-		RenderCache renderCache
-		{
-			get;
-		}
+		//RenderCache renderCache
+		//{
+		//	get;
+		//}
 
-		Anchor anchor
-		{
-			get;
-		}
+		//Anchor anchor
+		//{
+		//	get;
+		//}
 
-		ElementSegment elementSegment
-		{
-			get;
-		}
+		//ElementSegment elementSegment
+		//{
+		//	get;
+		//}
 
-		Material material
-		{
-			get;
-		}
+		//Material material
+		//{
+		//	get;
+		//}
 
-		LineAlignment lineAlignment
-		{
-			get;
-		}
+		//LineAlignment lineAlignment
+		//{
+		//	get;
+		//}
 
-		float GetWordSpacing(Font font);
+		//float GetWordSpacing(Font font);
 
-		void SetRenderDirty();
+		//void SetRenderDirty();
 
-		Draw GetDraw(DrawType type, long key, Action<Draw, object> onCreate, [Optional] object para);
+		//Draw GetDraw(DrawType type, long key, Action<Draw, object> onCreate, [Optional] object para);
 	}
 }

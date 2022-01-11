@@ -20,54 +20,6 @@ public class GetAllPanel65 : PUIBase
 		}
 	}
 
-	private sealed class _003CWaitMove_003Ed__28 : IEnumerator<object>, IEnumerator, IDisposable
-	{
-		private int _003C_003E1__state;
-
-		private object _003C_003E2__current;
-
-		public GetAllPanel65 _003C_003E4__this;
-
-		private int _003Cindex_003E5__2;
-
-		private object System_002ECollections_002EGeneric_002EIEnumerator_003CSystem_002EObject_003E_002ECurrent
-		{
-			[DebuggerHidden]
-			get
-			{
-				return null;
-			}
-		}
-
-		private object System_002ECollections_002EIEnumerator_002ECurrent
-		{
-			[DebuggerHidden]
-			get
-			{
-				return null;
-			}
-		}
-
-		[DebuggerHidden]
-		public _003CWaitMove_003Ed__28(int _003C_003E1__state)
-		{
-		}
-
-		[DebuggerHidden]
-		private void System_002EIDisposable_002EDispose()
-		{
-		}
-
-		private bool MoveNext()
-		{
-			return false;
-		}
-
-		[DebuggerHidden]
-		private void System_002ECollections_002EIEnumerator_002EReset()
-		{
-		}
-	}
 
 	private sealed class _003C_003Ec__DisplayClass31_0
 	{
@@ -114,59 +66,7 @@ public class GetAllPanel65 : PUIBase
 		}
 	}
 
-	private sealed class _003CConfirm2_003Ed__34 : IEnumerator<object>, IEnumerator, IDisposable
-	{
-		private int _003C_003E1__state;
-
-		private object _003C_003E2__current;
-
-		public GetAllPanel65 _003C_003E4__this;
-
-		private _003C_003Ec__DisplayClass34_0 _003C_003E8__1;
-
-		private _003C_003Ec__DisplayClass34_1 _003C_003E8__2;
-
-		private int _003Cindex_003E5__2;
-
-		private object System_002ECollections_002EGeneric_002EIEnumerator_003CSystem_002EObject_003E_002ECurrent
-		{
-			[DebuggerHidden]
-			get
-			{
-				return null;
-			}
-		}
-
-		private object System_002ECollections_002EIEnumerator_002ECurrent
-		{
-			[DebuggerHidden]
-			get
-			{
-				return null;
-			}
-		}
-
-		[DebuggerHidden]
-		public _003CConfirm2_003Ed__34(int _003C_003E1__state)
-		{
-		}
-
-		[DebuggerHidden]
-		private void System_002EIDisposable_002EDispose()
-		{
-		}
-
-		private bool MoveNext()
-		{
-			return false;
-		}
-
-		[DebuggerHidden]
-		private void System_002ECollections_002EIEnumerator_002EReset()
-		{
-		}
-	}
-
+	
 	private sealed class _003C_003Ec__DisplayClass35_0
 	{
 		public GameObject _debrisFly;
@@ -178,52 +78,6 @@ public class GetAllPanel65 : PUIBase
 		}
 	}
 
-	private sealed class _003CT2_003Ed__37 : IEnumerator<object>, IEnumerator, IDisposable
-	{
-		private int _003C_003E1__state;
-
-		private object _003C_003E2__current;
-
-		public Transform trans;
-
-		private object System_002ECollections_002EGeneric_002EIEnumerator_003CSystem_002EObject_003E_002ECurrent
-		{
-			[DebuggerHidden]
-			get
-			{
-				return null;
-			}
-		}
-
-		private object System_002ECollections_002EIEnumerator_002ECurrent
-		{
-			[DebuggerHidden]
-			get
-			{
-				return null;
-			}
-		}
-
-		[DebuggerHidden]
-		public _003CT2_003Ed__37(int _003C_003E1__state)
-		{
-		}
-
-		[DebuggerHidden]
-		private void System_002EIDisposable_002EDispose()
-		{
-		}
-
-		private bool MoveNext()
-		{
-			return false;
-		}
-
-		[DebuggerHidden]
-		private void System_002ECollections_002EIEnumerator_002EReset()
-		{
-		}
-	}
 
 	public Image maskImg;
 

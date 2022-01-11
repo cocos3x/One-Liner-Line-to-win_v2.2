@@ -36,9 +36,7 @@ namespace WXB
 
 			private float fHeight;
 
-			public Helper(float maxWidth, RenderCache cache, float x, uint yline, List<Line> lines, Anchor xFormatting, float offsetX, float offsetY, StringBuilder sb)
-			{
-			}
+		
 
 			private void DrawCurrent(bool isnewLine, Around around, float lineX)
 			{
@@ -93,7 +91,7 @@ namespace WXB
 
 		public Vector2 effectDistance;
 
-		public virtual Color currentColor => (Color)null;
+
 
 		public new long keyPrefix => 0L;
 
@@ -121,10 +119,6 @@ namespace WXB
 			return 0f;
 		}
 
-		protected override void UpdateWidthList(out List<Element> widths, float pixelsPerUnit)
-		{
-		}
-
 		public virtual bool IsHyText()
 		{
 			return false;
@@ -135,10 +129,6 @@ namespace WXB
 		}
 
 		public override void SetConfig(TextParser.Config c)
-		{
-		}
-
-		public void GetLineCharacterInfo(out CharacterInfo info)
 		{
 		}
 

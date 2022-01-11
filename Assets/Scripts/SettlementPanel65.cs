@@ -48,45 +48,7 @@ public class SettlementPanel65 : PUIBase
 	}
 
 	[StructLayout(3)]
-	private struct _003CMode2_003Ed__55 : IAsyncStateMachine
-	{
-		public int _003C_003E1__state;
-
-		public AsyncVoidMethodBuilder _003C_003Et__builder;
-
-		public SettlementPanel65 _003C_003E4__this;
-
-		private void MoveNext()
-		{
-		}
-
-		[DebuggerHidden]
-		private void SetStateMachine(IAsyncStateMachine stateMachine)
-		{
-		}
-	}
-
-	private sealed class _003C_003Ec__DisplayClass56_0
-	{
-		public SettlementPanel65 _003C_003E4__this;
-
-		public int _ran;
-
-		public CallBack callBack;
-
-		internal Rect _003CDoubleEvent_003Eb__0()
-		{
-			return (Rect)null;
-		}
-
-		internal void _003CDoubleEvent_003Eb__1(Rect x)
-		{
-		}
-
-		internal void _003CDoubleEvent_003Eb__3()
-		{
-		}
-	}
+	
 
 	private sealed class _003C_003Ec__DisplayClass59_0
 	{
@@ -129,158 +91,9 @@ public class SettlementPanel65 : PUIBase
 		}
 	}
 
-	private sealed class _003CFlyMoney_003Ed__60 : IEnumerator<object>, IEnumerator, IDisposable
-	{
-		private int _003C_003E1__state;
 
-		private object _003C_003E2__current;
-
-		public SettlementPanel65 _003C_003E4__this;
-
-		private _003C_003Ec__DisplayClass60_0 _003C_003E8__1;
-
-		private int _003Cindex_003E5__2;
-
-		private object System_002ECollections_002EGeneric_002EIEnumerator_003CSystem_002EObject_003E_002ECurrent
-		{
-			[DebuggerHidden]
-			get
-			{
-				return null;
-			}
-		}
-
-		private object System_002ECollections_002EIEnumerator_002ECurrent
-		{
-			[DebuggerHidden]
-			get
-			{
-				return null;
-			}
-		}
-
-		[DebuggerHidden]
-		public _003CFlyMoney_003Ed__60(int _003C_003E1__state)
-		{
-		}
-
-		[DebuggerHidden]
-		private void System_002EIDisposable_002EDispose()
-		{
-		}
-
-		private bool MoveNext()
-		{
-			return false;
-		}
-
-		[DebuggerHidden]
-		private void System_002ECollections_002EIEnumerator_002EReset()
-		{
-		}
-	}
-
-	private sealed class _003C_003Ec__DisplayClass61_0
-	{
-		public SettlementPanel65 _003C_003E4__this;
-
-		public int _originValue;
-
-		internal Vector3 _003CBoxPlan_003Eb__0()
-		{
-			return (Vector3)null;
-		}
-
-		internal void _003CBoxPlan_003Eb__1(Vector3 x)
-		{
-		}
-
-		internal int _003CBoxPlan_003Eb__2()
-		{
-			return 0;
-		}
-
-		internal void _003CBoxPlan_003Eb__3(int x)
-		{
-		}
-
-		internal void _003CBoxPlan_003Eb__4()
-		{
-		}
-	}
-
-	private sealed class _003CBoxPlan_003Ed__61 : IEnumerator<object>, IEnumerator, IDisposable
-	{
-		private int _003C_003E1__state;
-
-		private object _003C_003E2__current;
-
-		public SettlementPanel65 _003C_003E4__this;
-
-		private _003C_003Ec__DisplayClass61_0 _003C_003E8__1;
-
-		private float _003C_dest_003E5__2;
-
-		private object System_002ECollections_002EGeneric_002EIEnumerator_003CSystem_002EObject_003E_002ECurrent
-		{
-			[DebuggerHidden]
-			get
-			{
-				return null;
-			}
-		}
-
-		private object System_002ECollections_002EIEnumerator_002ECurrent
-		{
-			[DebuggerHidden]
-			get
-			{
-				return null;
-			}
-		}
-
-		[DebuggerHidden]
-		public _003CBoxPlan_003Ed__61(int _003C_003E1__state)
-		{
-		}
-
-		[DebuggerHidden]
-		private void System_002EIDisposable_002EDispose()
-		{
-		}
-
-		private bool MoveNext()
-		{
-			return false;
-		}
-
-		[DebuggerHidden]
-		private void System_002ECollections_002EIEnumerator_002EReset()
-		{
-		}
-	}
-
-	[StructLayout(3)]
-	private struct _003C_003CMode2_003Eb__55_0_003Ed : IAsyncStateMachine
-	{
-		public int _003C_003E1__state;
-
-		public AsyncVoidMethodBuilder _003C_003Et__builder;
-
-		public SettlementPanel65 _003C_003E4__this;
-
-		private object _003C_003Eu__1;
-
-		private void MoveNext()
-		{
-		}
-
-		[DebuggerHidden]
-		private void SetStateMachine(IAsyncStateMachine stateMachine)
-		{
-		}
-	}
-
+	
+	
 	public Image maskImg;
 
 	public Transform contentTra;
@@ -437,17 +250,12 @@ public class SettlementPanel65 : PUIBase
 	{
 	}
 
-	private void DoubleEvent(int _ran, CallBack callBack)
-	{
-	}
-
+	
 	private void Next()
 	{
 	}
 
-	private void GetMoney(bool isAni = false, [Optional] CallBack callBack)
-	{
-	}
+	
 
 	private IEnumerator FlyMoney()
 	{

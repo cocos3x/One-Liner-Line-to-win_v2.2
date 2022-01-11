@@ -37,14 +37,6 @@ namespace WXB
 		{
 		}
 
-		public static bool Get(string name, out Color color)
-		{
-			return false;
-		}
-
-		public static Color Get(string name, Color d)
-		{
-			return (Color)null;
-		}
+	
 	}
 }

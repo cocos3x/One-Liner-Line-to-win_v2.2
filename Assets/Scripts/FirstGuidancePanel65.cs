@@ -9,16 +9,6 @@ using UnityEngine.UI;
 public class FirstGuidancePanel65 : PUIBase
 {
 	[Serializable]
-	private sealed class _003C_003Ec
-	{
-		public static readonly _003C_003Ec _003C_003E9;
-
-		public static Action _003C_003E9__13_0;
-
-		internal void _003CCloseAni_003Eb__13_0()
-		{
-		}
-	}
 
 	private sealed class _003C_003Ec__DisplayClass16_0
 	{
@@ -35,56 +25,6 @@ public class FirstGuidancePanel65 : PUIBase
 		}
 	}
 
-	private sealed class _003CClose2_003Ed__16 : IEnumerator<object>, IEnumerator, IDisposable
-	{
-		private int _003C_003E1__state;
-
-		private object _003C_003E2__current;
-
-		public FirstGuidancePanel65 _003C_003E4__this;
-
-		private _003C_003Ec__DisplayClass16_0 _003C_003E8__1;
-
-		private int _003Cindex_003E5__2;
-
-		private object System_002ECollections_002EGeneric_002EIEnumerator_003CSystem_002EObject_003E_002ECurrent
-		{
-			[DebuggerHidden]
-			get
-			{
-				return null;
-			}
-		}
-
-		private object System_002ECollections_002EIEnumerator_002ECurrent
-		{
-			[DebuggerHidden]
-			get
-			{
-				return null;
-			}
-		}
-
-		[DebuggerHidden]
-		public _003CClose2_003Ed__16(int _003C_003E1__state)
-		{
-		}
-
-		[DebuggerHidden]
-		private void System_002EIDisposable_002EDispose()
-		{
-		}
-
-		private bool MoveNext()
-		{
-			return false;
-		}
-
-		[DebuggerHidden]
-		private void System_002ECollections_002EIEnumerator_002EReset()
-		{
-		}
-	}
 
 	public Image maskImg;
 

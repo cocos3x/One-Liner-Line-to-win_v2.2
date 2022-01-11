@@ -12,7 +12,7 @@ namespace WXB
 
 		private bool isCurrentEmpty;
 
-		public override DrawType type => (DrawType)null;
+		
 
 		public bool isOpenAlpha
 		{

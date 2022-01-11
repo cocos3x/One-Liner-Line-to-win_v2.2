@@ -6,11 +6,7 @@ internal class ArabicFixerTool
 
 	internal static bool useHinduNumbers;
 
-	internal static string RemoveTashkeel(string str, out List<TashkeelLocation> tashkeelLocation)
-	{
-		return "";
-	}
-
+	
 	internal static char[] ReturnTashkeel(char[] letters, List<TashkeelLocation> tashkeelLocation)
 	{
 		return null;

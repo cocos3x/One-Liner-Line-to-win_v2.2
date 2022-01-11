@@ -13,43 +13,7 @@ namespace WXB
 			void Release();
 		}
 
-		private class Normal : IPool
-		{
-			private T WXB_002ENodePools_003CT_003E_002EIPool_002EGet()
-			{
-				return null;
-			}
-
-			private void WXB_002ENodePools_003CT_003E_002EIPool_002EFree(T value)
-			{
-			}
-
-			private void WXB_002ENodePools_003CT_003E_002EIPool_002ERelease()
-			{
-			}
-		}
-
-		private class Pool : IPool
-		{
-			private Queue<T> bufs;
-
-			public Pool(int num)
-			{
-			}
-
-			private T WXB_002ENodePools_003CT_003E_002EIPool_002EGet()
-			{
-				return null;
-			}
-
-			private void WXB_002ENodePools_003CT_003E_002EIPool_002EFree(T value)
-			{
-			}
-
-			private void WXB_002ENodePools_003CT_003E_002EIPool_002ERelease()
-			{
-			}
-		}
+	
 
 		private static IPool pool;
 

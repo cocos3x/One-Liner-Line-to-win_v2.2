@@ -14,9 +14,6 @@ namespace sdk.bridge
 		{
 		}
 
-		public T GetTest<T>(string testKey, T defaultVal)
-		{
-			return (T)null;
-		}
+	
 	}
 }

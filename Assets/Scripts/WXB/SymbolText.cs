@@ -77,7 +77,7 @@ namespace WXB
 			}
 		}
 
-		public Anchor anchor => (Anchor)null;
+		
 
 		public int minLineHeight
 		{
@@ -90,17 +90,7 @@ namespace WXB
 			}
 		}
 
-		public LineAlignment lineAlignment
-		{
-			get
-			{
-				//IL_0003: Expected I4, but got O
-				return (LineAlignment)null;
-			}
-			set
-			{
-			}
-		}
+		
 
 		public RenderCache renderCache => null;
 
@@ -168,11 +158,7 @@ namespace WXB
 		{
 		}
 
-		protected TextParser.Config CreateConfig()
-		{
-			return (TextParser.Config)null;
-		}
-
+	
 		protected override void Awake()
 		{
 		}

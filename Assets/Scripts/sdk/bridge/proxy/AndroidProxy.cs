@@ -80,42 +80,13 @@ namespace sdk.bridge.proxy
 		{
 		}
 
-		public bool ShowOpenAd(int position, AdEvent adEvent, Action sdkCallback)
-		{
-			return false;
-		}
-
-		private AdAndroidCallbackImp GetSdkAdCallback(int position, bool isReward, Action sdkCallback, [Optional] Action failSdkCallback)
-		{
-			return null;
-		}
-
-		public bool ShowAd(int position, AdEvent adEvent, Action sdkCallback)
-		{
-			return false;
-		}
-
-		public bool Load2ShowAd(int position, AdEvent adEvent, Action sdkCallback)
-		{
-			return false;
-		}
+		
 
 		public void LoadRewardAd(int position)
 		{
 		}
 
-		public void Load2ShowRewardAd(int position, AdEvent adEvent, Action sdkCallback, [Optional] Action sdkFailCallback)
-		{
-		}
-
-		public bool ShowRewardAd(int position, AdEvent adEvent, Action sdkCallback, [Optional] Action sdkFailCallback)
-		{
-			return false;
-		}
-
-		public void Load2ShowBanner(int position, AdEvent staticsMsg)
-		{
-		}
+	
 
 		public void SetBannerVisible(bool isVisible)
 		{
@@ -130,14 +101,7 @@ namespace sdk.bridge.proxy
 			return false;
 		}
 
-		public void AdPageShow(int position, AdEvent adEvent)
-		{
-		}
-
-		public void AdPageClick(int position, AdEvent adEvent)
-		{
-		}
-
+		
 		public void PostAbRequest(string serverIdName)
 		{
 		}

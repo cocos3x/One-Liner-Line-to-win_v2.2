@@ -92,45 +92,14 @@ namespace WXB
 			return null;
 		}
 
-		public static bool ScreenPointToWorldPointInRectangle(RectTransform rectTrans, Vector2 screenPoint, Camera cam, out Vector2 worldPoint)
-		{
-			return false;
-		}
-
-		public static Color ParseColor(string text, int offset, Color defc)
-		{
-			return (Color)null;
-		}
-
-		public static bool ParseColor(string text, int offset, out Color color)
-		{
-			return false;
-		}
-
-		public static Color ParseColor24(string text, int offset)
-		{
-			return (Color)null;
-		}
-
-		public static Color ParseColor32(string text, int offset)
-		{
-			return (Color)null;
-		}
+		
 
 		public static int HexToDecimal(char ch)
 		{
 			return 0;
 		}
 
-		public static Color ParserColorName(string text, Color dc)
-		{
-			return (Color)null;
-		}
-
-		public static Color ParserColorName(string text, ref int startpos, Color dc)
-		{
-			return (Color)null;
-		}
+		
 
 		public static T AddChild<T>(this GameObject go) where T : MonoBehaviour
 		{

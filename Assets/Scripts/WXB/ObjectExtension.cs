@@ -10,14 +10,6 @@ namespace WXB
 			return null;
 		}
 
-		public static T pop_back<T>(this List<T> l)
-		{
-			return (T)null;
-		}
-
-		public static T back<T>(this List<T> l)
-		{
-			return (T)null;
-		}
+		
 	}
 }

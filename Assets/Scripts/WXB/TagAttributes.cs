@@ -48,10 +48,7 @@ namespace WXB
 			return "";
 		}
 
-		public Color getValueAsColor(string attrName, Color color)
-		{
-			return (Color)null;
-		}
+		
 
 		public string getValueAsString(string attrName, string def)
 		{

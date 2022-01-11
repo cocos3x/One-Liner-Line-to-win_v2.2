@@ -172,15 +172,7 @@ namespace WXB
 		{
 		}
 
-		private static bool Get(char c, out Anchor a)
-		{
-			return false;
-		}
-
-		private static bool Get(char c, out LineAlignment a)
-		{
-			return false;
-		}
+		
 
 		private static bool ParserInt(ref int d_curPos, string text, ref int value, int num = 3)
 		{
@@ -220,10 +212,7 @@ namespace WXB
 		{
 		}
 
-		private static Color GetColour(uint code)
-		{
-			return (Color)null;
-		}
+	
 
 		private void Reg()
 		{
@@ -274,11 +263,7 @@ namespace WXB
 		{
 		}
 
-		private static bool GetFontStyle(char c, out FontStyle fs)
-		{
-			return false;
-		}
-
+		
 		private void ParserFontStyle(string text)
 		{
 		}
@@ -331,11 +316,7 @@ namespace WXB
 		{
 		}
 
-		private static Color ParserColorName(string name, int startpos, Color c)
-		{
-			return (Color)null;
-		}
-
+	
 		private static void SetDefaultConfig(NodeBase nb, TagAttributes att)
 		{
 		}

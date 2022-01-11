@@ -11,12 +11,7 @@ namespace YouYou
 		[DebuggerHidden]
 		public ETTask Task => null;
 
-		[MethodImpl(256)]
-		[DebuggerHidden]
-		public static ETAsyncTaskMethodBuilder Create()
-		{
-			return (ETAsyncTaskMethodBuilder)null;
-		}
+	
 
 		[MethodImpl(256)]
 		[DebuggerHidden]
@@ -63,13 +58,7 @@ namespace YouYou
 
 		[MethodImpl(256)]
 		[DebuggerHidden]
-		public static ETAsyncTaskMethodBuilder<T> Create()
-		{
-			return (ETAsyncTaskMethodBuilder<T>)null;
-		}
-
-		[MethodImpl(256)]
-		[DebuggerHidden]
+	
 		public void SetException(Exception exception)
 		{
 		}

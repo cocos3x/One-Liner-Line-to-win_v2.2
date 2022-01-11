@@ -187,18 +187,7 @@ public class GameManager65 : MonoBehaviour
 
 	private int _shake;
 
-	public CashOutMode CashOutMode
-	{
-		get
-		{
-			//IL_0003: Expected I4, but got O
-			return (CashOutMode)null;
-		}
-		set
-		{
-		}
-	}
-
+	
 	public int V_Multi => 0;
 
 	private void Awake()

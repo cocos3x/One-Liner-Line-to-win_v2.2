@@ -41,10 +41,7 @@ public class JsonHelper
 		return "";
 	}
 
-	public T ReadFromStreamAssets<T>(string jsonFilePath)
-	{
-		return (T)null;
-	}
+
 
 	public string GetFilePathOfPersistentDataPath(string filePath)
 	{
@@ -60,10 +57,6 @@ public class JsonHelper
 	{
 	}
 
-	public T ReadFromPersistentData<T>(string jsonFilePath)
-	{
-		return (T)null;
-	}
 
 	public void WriteToPersistentData<T>(string jsonFilePath, T data, bool append = false)
 	{

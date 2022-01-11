@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace sdk.bridge.imp.android
 {
-	public class ShareAndroidCallbackImpl : AndroidJavaProxy, IShareCallback
+	public class ShareAndroidCallbackImpl
 	{
 		private ShareAction _shareAction;
 
@@ -24,10 +24,7 @@ namespace sdk.bridge.imp.android
 			return null;
 		}
 
-		public ShareAndroidCallbackImpl(string javaInterface, ShareAction shareAction)
-		{
-		}
-
+		
 		public void ShowFissionRewardAnimation(int rewardType, double rewardVal)
 		{
 		}

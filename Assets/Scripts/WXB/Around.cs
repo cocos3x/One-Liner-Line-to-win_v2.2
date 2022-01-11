@@ -15,14 +15,6 @@ namespace WXB
 		{
 		}
 
-		public bool isContain(Rect rect, out float ox)
-		{
-			return false;
-		}
-
-		public bool isContain(float x, float y, float w, float h, out float ox)
-		{
-			return false;
-		}
+		
 	}
 }

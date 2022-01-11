@@ -2,7 +2,7 @@ using UnityEngine;
 
 namespace WXB
 {
-	public class DrawObject : MonoBehaviour, Draw
+	public class DrawObject : MonoBehaviour
 	{
 		private RectTransform _003CrectTransform_003Ek__BackingField;
 
@@ -25,8 +25,7 @@ namespace WXB
 			}
 		}
 
-		public virtual DrawType type => (DrawType)null;
-
+	
 		public virtual long key
 		{
 			get

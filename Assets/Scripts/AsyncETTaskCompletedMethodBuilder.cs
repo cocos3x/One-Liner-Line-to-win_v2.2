@@ -5,17 +5,10 @@ using System.Runtime.InteropServices;
 
 namespace YouYou
 {
-	[StructLayout(0, Size = 1)]
+	
 	public struct AsyncETTaskCompletedMethodBuilder
 	{
-		public ETTaskCompleted Task => (ETTaskCompleted)null;
-
-		[DebuggerHidden]
-		public static AsyncETTaskCompletedMethodBuilder Create()
-		{
-			return (AsyncETTaskCompletedMethodBuilder)null;
-		}
-
+	
 		[MethodImpl(256)]
 		[DebuggerHidden]
 		public void SetException(Exception exception)

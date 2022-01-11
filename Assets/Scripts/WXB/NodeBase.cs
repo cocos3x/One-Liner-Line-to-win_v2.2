@@ -18,23 +18,7 @@ namespace WXB
 
 			public int count => 0;
 
-			public Element(List<float> ws)
-			{
-			}
-
-			public Element(float width)
-			{
-			}
-
-			public Vector2 Next(NodeBase n, Vector2 currentPos, List<Line> lines, float maxWidth, float lineX, float height, Around round, float tw, ref bool currentLineContain)
-			{
-				return (Vector2)null;
-			}
-
-			private Vector2 Add(NodeBase n, Vector2 currentPos, float width, float maxWidth, float lineX, List<Line> lines, float height, ref bool currentLineContain)
-			{
-				return (Vector2)null;
-			}
+		
 		}
 
 		public Owner owner;
@@ -108,9 +92,7 @@ namespace WXB
 		{
 		}
 
-		protected virtual void UpdateWidthList(out List<Element> widths, float pixelsPerUnit)
-		{
-		}
+		
 
 		public virtual void onMouseEnter()
 		{

@@ -19,9 +19,6 @@ namespace WXB
 
 		private static Factory<StringBuilder> sb_factory;
 
-		public static PD<StringBuilder> GetSB()
-		{
-			return (PD<StringBuilder>)null;
-		}
+	
 	}
 }

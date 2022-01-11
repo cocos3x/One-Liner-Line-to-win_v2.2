@@ -11,7 +11,7 @@ namespace WXB
 
 		private float maxWidth;
 
-		public override DrawType type => (DrawType)null;
+		
 
 		public bool isOpenAlpha
 		{
