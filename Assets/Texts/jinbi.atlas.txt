@@ -1,0 +1,251 @@
+
+jinbi.png
+size: 4096,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+wojiaoxingjinbi_b_ainm001
+  rotate: false
+  xy: 2, 1181
+  size: 391, 391
+  orig: 450, 450
+  offset: 26, 33
+  index: -1
+wojiaoxingjinbi_b_ainm002
+  rotate: false
+  xy: 2, 788
+  size: 391, 391
+  orig: 450, 450
+  offset: 26, 33
+  index: -1
+wojiaoxingjinbi_b_ainm003
+  rotate: false
+  xy: 788, 3
+  size: 390, 390
+  orig: 450, 450
+  offset: 26, 33
+  index: -1
+wojiaoxingjinbi_b_ainm004
+  rotate: false
+  xy: 1181, 1184
+  size: 388, 389
+  orig: 450, 450
+  offset: 27, 34
+  index: -1
+wojiaoxingjinbi_b_ainm005
+  rotate: false
+  xy: 1571, 1187
+  size: 387, 387
+  orig: 450, 450
+  offset: 28, 35
+  index: -1
+wojiaoxingjinbi_b_ainm006
+  rotate: true
+  xy: 1960, 1190
+  size: 386, 384
+  orig: 450, 450
+  offset: 30, 40
+  index: -1
+wojiaoxingjinbi_b_ainm007
+  rotate: true
+  xy: 1869, 409
+  size: 387, 372
+  orig: 450, 450
+  offset: 29, 50
+  index: -1
+wojiaoxingjinbi_b_ainm008
+  rotate: true
+  xy: 1955, 798
+  size: 387, 347
+  orig: 450, 450
+  offset: 28, 66
+  index: -1
+wojiaoxingjinbi_b_ainm009
+  rotate: true
+  xy: 1528, 1576
+  size: 389, 309
+  orig: 450, 450
+  offset: 26, 88
+  index: -1
+wojiaoxingjinbi_b_ainm010
+  rotate: true
+  xy: 1572, 14
+  size: 388, 264
+  orig: 450, 450
+  offset: 29, 111
+  index: -1
+wojiaoxingjinbi_b_ainm011
+  rotate: true
+  xy: 1838, 14
+  size: 388, 232
+  orig: 450, 450
+  offset: 26, 124
+  index: -1
+wojiaoxingjinbi_b_ainm012
+  rotate: true
+  xy: 2072, 32
+  size: 375, 242
+  orig: 450, 450
+  offset: 32, 113
+  index: -1
+wojiaoxingjinbi_b_ainm013
+  rotate: true
+  xy: 2304, 841
+  size: 347, 286
+  orig: 450, 450
+  offset: 48, 85
+  index: -1
+wojiaoxingjinbi_b_ainm014
+  rotate: false
+  xy: 2346, 1243
+  size: 313, 334
+  orig: 450, 450
+  offset: 69, 58
+  index: -1
+wojiaoxingjinbi_b_ainm015
+  rotate: false
+  xy: 2243, 427
+  size: 290, 369
+  orig: 450, 450
+  offset: 85, 40
+  index: -1
+wojiaoxingjinbi_b_ainm016
+  rotate: false
+  xy: 2227, 1579
+  size: 292, 386
+  orig: 450, 450
+  offset: 88, 33
+  index: -1
+wojiaoxingjinbi_b_ainm017
+  rotate: false
+  xy: 1551, 404
+  size: 316, 388
+  orig: 450, 450
+  offset: 77, 35
+  index: -1
+wojiaoxingjinbi_b_ainm018
+  rotate: false
+  xy: 1181, 1575
+  size: 345, 390
+  orig: 450, 450
+  offset: 61, 33
+  index: -1
+wojiaoxingjinbi_b_ainm019
+  rotate: false
+  xy: 1181, 404
+  size: 368, 388
+  orig: 450, 450
+  offset: 46, 34
+  index: -1
+wojiaoxingjinbi_b_ainm020
+  rotate: false
+  xy: 1571, 798
+  size: 382, 387
+  orig: 450, 450
+  offset: 35, 34
+  index: -1
+wojiaoxingjinbi_b_ainm021
+  rotate: false
+  xy: 1839, 1578
+  size: 386, 387
+  orig: 450, 450
+  offset: 29, 34
+  index: -1
+wojiaoxingjinbi_b_ainm022
+  rotate: false
+  xy: 1181, 794
+  size: 388, 388
+  orig: 450, 450
+  offset: 27, 34
+  index: -1
+wojiaoxingjinbi_b_ainm023
+  rotate: false
+  xy: 1180, 3
+  size: 390, 390
+  orig: 450, 450
+  offset: 26, 33
+  index: -1
+wojiaoxingjinbi_b_ainm024
+  rotate: false
+  xy: 2, 395
+  size: 391, 391
+  orig: 450, 450
+  offset: 26, 33
+  index: -1
+wojiaoxingjinbi_b_ainm025
+  rotate: false
+  xy: 2, 2
+  size: 391, 391
+  orig: 450, 450
+  offset: 26, 33
+  index: -1
+wojiaoxingjinbi_b_ainm026
+  rotate: false
+  xy: 395, 1574
+  size: 391, 391
+  orig: 450, 450
+  offset: 26, 33
+  index: -1
+wojiaoxingjinbi_b_ainm027
+  rotate: false
+  xy: 395, 1181
+  size: 391, 391
+  orig: 450, 450
+  offset: 26, 33
+  index: -1
+wojiaoxingjinbi_b_ainm028
+  rotate: false
+  xy: 395, 788
+  size: 391, 391
+  orig: 450, 450
+  offset: 26, 33
+  index: -1
+wojiaoxingjinbi_b_ainm029
+  rotate: false
+  xy: 395, 395
+  size: 391, 391
+  orig: 450, 450
+  offset: 26, 33
+  index: -1
+wojiaoxingjinbi_b_ainm030
+  rotate: false
+  xy: 395, 2
+  size: 391, 391
+  orig: 450, 450
+  offset: 26, 33
+  index: -1
+wojiaoxingjinbi_b_ainm031
+  rotate: false
+  xy: 788, 1574
+  size: 391, 391
+  orig: 450, 450
+  offset: 26, 33
+  index: -1
+wojiaoxingjinbi_b_ainm032
+  rotate: false
+  xy: 788, 1181
+  size: 391, 391
+  orig: 450, 450
+  offset: 26, 33
+  index: -1
+wojiaoxingjinbi_b_ainm033
+  rotate: false
+  xy: 788, 788
+  size: 391, 391
+  orig: 450, 450
+  offset: 26, 33
+  index: -1
+wojiaoxingjinbi_b_ainm034
+  rotate: false
+  xy: 788, 395
+  size: 391, 391
+  orig: 450, 450
+  offset: 26, 33
+  index: -1
+wojiaoxingjinbi_b_ainm035
+  rotate: false
+  xy: 2, 1574
+  size: 391, 391
+  orig: 450, 450
+  offset: 26, 33
+  index: -1

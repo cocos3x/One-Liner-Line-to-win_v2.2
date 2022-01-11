@@ -1,0 +1,101 @@
+Resolve4: UnityEngine.CoreModule
+Resolve4: mscorlib
+Resolve4: UnityEngine.TextRenderingModule
+Resolve4: UnityEngine.UI
+Scene analize:CashOutPanel65.prefab
+GameObject: 1790696815407252835 !!!!  link to missed asset: {FileID: 1790696817303078645} tag: 1790696817303078645}
+GameObject: 1790696815407252840 !!!!  link to missed asset: {FileID: 1790696817303078650} tag: 1790696817303078650}
+Bad links count: 2
+Resolve4: UnityEngine.AnimationModule
+Resolve4: UnityEngine.UIModule
+Resolve4: UnityEngine.ParticleSystemModule
+Scene analize:GoldPanel65.prefab
+GameObject: 1790696815407252741 !!!!  link to missed asset: {FileID: 1790696817303078656} tag: 1790696817303078656}
+GameObject: 1790696815407252772 !!!!  link to missed asset: {FileID: 1790696817303078688} tag: 1790696817303078688}
+GameObject: 1790696815407252831 !!!!  link to missed asset: {FileID: 1790696817303078775} tag: 1790696817303078775}
+GameObject: 1790696815407252832 !!!!  link to missed asset: {FileID: 1790696817303078762} tag: 1790696817303078762}
+GameObject: 1790696815407252835 !!!!  link to missed asset: {FileID: 1790696817303078787} tag: 1790696817303078787}
+GameObject: 1790696815407252838 !!!!  link to missed asset: {FileID: 1790696817303078788} tag: 1790696817303078788}
+GameObject: 1790696815407252844 !!!!  link to missed asset: {FileID: 1790696817303078746} tag: 1790696817303078746}
+GameObject: 1790696815407252849 !!!!  link to missed asset: {FileID: 1790696817303078730} tag: 1790696817303078730}
+GameObject: 1790696815407252851 !!!!  link to missed asset: {FileID: 1790696817303078785} tag: 1790696817303078785}
+GameObject: 1790696815407252852 !!!!  link to missed asset: {FileID: 1790696817303078792} tag: 1790696817303078792}
+GameObject: 1790696815407252853 !!!!  link to missed asset: {FileID: 1790696817303078735} tag: 1790696817303078735}
+GameObject: 1790696815407252854 !!!!  link to missed asset: {FileID: 1790696817303078794} tag: 1790696817303078794}
+GameObject: 1790696815407252898 !!!!  link to missed asset: {FileID: 1790696817303078736} tag: 1790696817303078736}
+GameObject: 1790696815407252900 !!!!  link to missed asset: {FileID: 1790696817303078800} tag: 1790696817303078800}
+GameObject: 1790696815407252902 !!!!  link to missed asset: {FileID: 1790696817303078778} tag: 1790696817303078778}
+GameObject: 1790696815407252914 !!!!  link to missed asset: {FileID: 1790696817303078739} tag: 1790696817303078739}
+MonoBehaviour: 1790696817303078661 !!!!  link to missed asset: {FileID: 1790696817303078800} tag: 1790696817303078800}
+MonoBehaviour: 1790696817303078661 !!!!  link to missed asset: {FileID: 1790696817303078800} tag: 1790696817303078800}
+MonoBehaviour: 1790696817303078681 !!!!  link to missed asset: {FileID: 1790696817303078800} tag: 1790696817303078800}
+MonoBehaviour: 1790696817303078681 !!!!  link to missed asset: {FileID: 1790696817303078800} tag: 1790696817303078800}
+MonoBehaviour: 1790696817303078686 !!!!  link to missed asset: {FileID: 1790696817303078800} tag: 1790696817303078800}
+MonoBehaviour: 1790696817303078686 !!!!  link to missed asset: {FileID: 1790696817303078800} tag: 1790696817303078800}
+MonoBehaviour: 1790696817303078700 !!!!  link to missed asset: {FileID: 1790696817303078800} tag: 1790696817303078800}
+MonoBehaviour: 1790696817303078737 !!!!  link to missed asset: {FileID: 1790696817303078800} tag: 1790696817303078800}
+MonoBehaviour: 1790696817303078740 !!!!  link to missed asset: {FileID: 1790696817303078800} tag: 1790696817303078800}
+MonoBehaviour: 1790696817303078744 !!!!  link to missed asset: {FileID: 1790696817303078800} tag: 1790696817303078800}
+MonoBehaviour: 1790696817303078745 !!!!  link to missed asset: {FileID: 1790696817303078800} tag: 1790696817303078800}
+MonoBehaviour: 1790696817303078751 !!!!  link to missed asset: {FileID: 1790696817303078800} tag: 1790696817303078800}
+MonoBehaviour: 1790696817303078766 !!!!  link to missed asset: {FileID: 1790696817303078800} tag: 1790696817303078800}
+MonoBehaviour: 1790696817303078782 !!!!  link to missed asset: {FileID: 1790696817303078800} tag: 1790696817303078800}
+MonoBehaviour: 1790696817303078783 !!!!  link to missed asset: {FileID: 1790696817303078800} tag: 1790696817303078800}
+MonoBehaviour: 1790696817303078784 !!!!  link to missed asset: {FileID: 1790696817303078800} tag: 1790696817303078800}
+MonoBehaviour: 1790696817303078799 !!!!  link to missed asset: {FileID: 1790696817303078800} tag: 1790696817303078800}
+MonoBehaviour: 1790696817303078809 !!!!  link to missed asset: {FileID: 1790696817303078800} tag: 1790696817303078800}
+MonoBehaviour: 1790696817303078810 !!!!  link to missed asset: {FileID: 1790696817303078800} tag: 1790696817303078800}
+MonoBehaviour: 1790696817303078818 !!!!  link to missed asset: {FileID: 1790696817303078800} tag: 1790696817303078800}
+MonoBehaviour: 1790696817303078833 !!!!  link to missed asset: {FileID: 1790696817303078800} tag: 1790696817303078800}
+MonoBehaviour: 1790696817303078838 !!!!  link to missed asset: {FileID: 1790696817303078800} tag: 1790696817303078800}
+MonoBehaviour: 1790696817303078845 !!!!  link to missed asset: {FileID: 1790696817303078800} tag: 1790696817303078800}
+Bad links count: 39
+Resolve4: spine-unity
+Scene analize:UIGetSkin65.prefab
+GameObject: 1790696815407252875 !!!!  link to missed asset: {FileID: 1790696817303078658} tag: 1790696817303078658}
+MonoBehaviour: 1790696817303078643 !!!!  link to missed asset: {FileID: 1790696817303078658} tag: 1790696817303078658}
+Bad links count: 2
+Scene analize:GetDiamondsPanel65.prefab
+GameObject: 1790696815407252743 !!!!  link to missed asset: {FileID: 1790696817303078163} tag: 1790696817303078163}
+Bad links count: 1
+Scene analize:GetSkinPanel65.prefab
+GameObject: 1790696815407252875 !!!!  link to missed asset: {FileID: 1790696817303078658} tag: 1790696817303078658}
+MonoBehaviour: 1790696817303078643 !!!!  link to missed asset: {FileID: 1790696817303078658} tag: 1790696817303078658}
+Bad links count: 2
+[129: PlayerSettings] string.size 1818391920 > 10_000_000 \macAppStoreCategory, buf.Position=344
+129: PlayerSettings pathID: 1
+
+Ba.Warning: pos: 344 != len: 616 for: {fileID: 0 (globalgamemanagers), pathID: 1, m_Name: , type: PlayerSettings}
+Ba.Warning: pos: 44 != len: 48 for: {fileID: 0 (globalgamemanagers), pathID: 4, m_Name: , type: AudioManager}
+Ba.Warning: pos: 232 != len: 256 for: {fileID: 0 (globalgamemanagers), pathID: 10, m_Name: , type: PhysicsManager}
+[141: BuildSettings] string.size 3994686347 > 10_000_000 \m_Version, buf.Position=76
+141: BuildSettings pathID: 11
+
+Ba.Warning: pos: 76 != len: 27020 for: {fileID: 0 (globalgamemanagers), pathID: 11, m_Name: , type: BuildSettings}
+Missed: for UnityEngine.IMGUIModule.dll/UnityEngine/GUISkin
+Warning: pos: 100 != len: 8488 for: {fileID: 0 (unity default resources), pathID: 11000, m_Name: GameSkin, type: MonoBehaviour}
+Missed: for UnityEngine.IMGUIModule.dll/UnityEngine/GUISkin
+Missed: for UnityEngine.IMGUIModule.dll/UnityEngine/GUISkin
+Make Script DB
+Make Scripts
+Code decompile: Assembly-CSharp-firstpass.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: Assembly-CSharp-firstpass.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+Assembly-CSharp-firstpass.dll- prepare classes, count: 13
+Assembly-CSharp-firstpass.dll - decompiled
+Code decompile: Assembly-CSharp.dll, class_name=*, type=DecompilerFi
+Check for DeObfuscate: Assembly-CSharp.dll
+DecompilerFi.exe begin decomplile
+DecompilerFi.exe end process
+Assembly-CSharp.dll- prepare classes, count: 264
+Assembly-CSharp.dll - decompiled
+Make plugins
+Check for DeObfuscate: DOTween.dll
+Check for DeObfuscate: LitJson.dll
+Check for DeObfuscate: Newtonsoft.Json.dll
+Check for DeObfuscate: spine-unity.dll
+Check for DeObfuscate: UIEffect.dll
+Make binStreamingAssets
+Write scrip db
+MakeUnityProject - end, dir: D:\Unity\OneLine

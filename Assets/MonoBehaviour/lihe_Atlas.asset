@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 1497261852, guid: 1c14468f0573ee7c18c19271d55d0227, type: 3}
+  m_Name: "lihe_Atlas"
+  m_EditorClassIdentifier: 
+  atlasFile: {fileID: 4900000, guid: 38647d0824bb4998b21ab28c96b31af2, type: 3}
+  materials:
+  - {fileID: 2100000, guid: 47d54b6a7e544e318137884036745fad, type: 2}

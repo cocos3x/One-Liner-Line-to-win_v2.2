@@ -1,0 +1,195 @@
+
+kailihe.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+zongzi031
+  rotate: false
+  xy: 1720, 301
+  size: 247, 456
+  orig: 1000, 1000
+  offset: 337, 144
+  index: -1
+zongzi032
+  rotate: true
+  xy: 1039, 278
+  size: 243, 464
+  orig: 1000, 1000
+  offset: 339, 144
+  index: -1
+zongzi033
+  rotate: true
+  xy: 558, 286
+  size: 239, 479
+  orig: 1000, 1000
+  offset: 341, 145
+  index: -1
+zongzi034
+  rotate: true
+  xy: 1219, 523
+  size: 235, 499
+  orig: 1000, 1000
+  offset: 344, 144
+  index: -1
+zongzi035
+  rotate: true
+  xy: 704, 527
+  size: 233, 513
+  orig: 1000, 1000
+  offset: 345, 143
+  index: -1
+zongzi036
+  rotate: true
+  xy: 2, 309
+  size: 236, 554
+  orig: 1000, 1000
+  offset: 343, 143
+  index: -1
+zongzi037
+  rotate: true
+  xy: 2, 35
+  size: 249, 660
+  orig: 1000, 1000
+  offset: 333, 142
+  index: -1
+zongzi038
+  rotate: true
+  xy: 664, 2
+  size: 274, 767
+  orig: 1000, 1000
+  offset: 318, 197
+  index: -1
+zongzi039
+  rotate: true
+  xy: 1777, 1105
+  size: 290, 264
+  orig: 1000, 1000
+  offset: 313, 199
+  index: -1
+zongzi040
+  rotate: true
+  xy: 1774, 759
+  size: 344, 237
+  orig: 1000, 1000
+  offset: 285, 206
+  index: -1
+zongzi041
+  rotate: false
+  xy: 2, 769
+  size: 358, 209
+  orig: 1000, 1000
+  offset: 278, 222
+  index: -1
+zongzi042
+  rotate: false
+  xy: 2, 982
+  size: 357, 207
+  orig: 1000, 1000
+  offset: 279, 226
+  index: -1
+zongzi043
+  rotate: false
+  xy: 362, 767
+  size: 353, 211
+  orig: 1000, 1000
+  offset: 281, 225
+  index: -1
+zongzi044
+  rotate: false
+  xy: 1068, 762
+  size: 351, 215
+  orig: 1000, 1000
+  offset: 282, 224
+  index: -1
+zongzi045
+  rotate: false
+  xy: 2, 550
+  size: 349, 217
+  orig: 1000, 1000
+  offset: 283, 224
+  index: -1
+zongzi046
+  rotate: false
+  xy: 353, 547
+  size: 349, 218
+  orig: 1000, 1000
+  offset: 283, 224
+  index: -1
+zongzi047
+  rotate: false
+  xy: 1421, 760
+  size: 349, 216
+  orig: 1000, 1000
+  offset: 283, 226
+  index: -1
+zongzi048
+  rotate: false
+  xy: 717, 764
+  size: 349, 213
+  orig: 1000, 1000
+  offset: 283, 228
+  index: -1
+zongzi049
+  rotate: false
+  xy: 1421, 978
+  size: 351, 209
+  orig: 1000, 1000
+  offset: 282, 230
+  index: -1
+zongzi050
+  rotate: false
+  xy: 1067, 1189
+  size: 353, 206
+  orig: 1000, 1000
+  offset: 281, 232
+  index: -1
+zongzi051
+  rotate: false
+  xy: 2, 1191
+  size: 353, 204
+  orig: 1000, 1000
+  offset: 281, 233
+  index: -1
+zongzi052
+  rotate: false
+  xy: 357, 1191
+  size: 353, 204
+  orig: 1000, 1000
+  offset: 281, 233
+  index: -1
+zongzi053
+  rotate: false
+  xy: 712, 1190
+  size: 353, 205
+  orig: 1000, 1000
+  offset: 281, 232
+  index: -1
+zongzi054
+  rotate: false
+  xy: 1422, 1189
+  size: 353, 206
+  orig: 1000, 1000
+  offset: 281, 232
+  index: -1
+zongzi055
+  rotate: false
+  xy: 1067, 979
+  size: 352, 208
+  orig: 1000, 1000
+  offset: 282, 231
+  index: -1
+zongzi056
+  rotate: false
+  xy: 714, 980
+  size: 351, 208
+  orig: 1000, 1000
+  offset: 282, 231
+  index: -1
+zongzi057
+  rotate: false
+  xy: 361, 980
+  size: 351, 208
+  orig: 1000, 1000
+  offset: 282, 231
+  index: -1

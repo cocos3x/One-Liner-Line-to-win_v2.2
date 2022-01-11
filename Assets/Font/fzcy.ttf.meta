@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 8da5187c1a384a8dbc6c5415e3cb993f
+timeCreated: 1641934504
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "fzcy"
+  fontNames:
+  - FZCY
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 
